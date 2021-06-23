@@ -4,7 +4,7 @@
     "palette": "green",
     "header": {
         "type": "header",
-        "title": "Ampersand",
+        "title": "WorkSuites Blog",
         "logo_img": "/images/worksuites_logo_web.png",
         "logo_img_alt": "WorkSuites Logo",
         "has_nav": false,
