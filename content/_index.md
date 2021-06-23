@@ -8,10 +8,10 @@ intro_actions:
     label: Learn More
     url: /about
     style: primary
-#   - type: action
-#     label: Contact
-#     url: /contact
-#     style: secondary
+  - type: action
+    label: Contact
+    url: /contact
+    style: secondary
 has_more_link: true
 more_link_text: Read more
 seo:
