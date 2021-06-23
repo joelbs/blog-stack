@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "title": "Ampersand",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/worksuites_logo_web.png",
         "logo_img_alt": "Ampersand Logo",
         "has_nav": true,
         "nav_links": [
