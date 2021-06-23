@@ -7,7 +7,7 @@
         "title": "Ampersand",
         "logo_img": "/images/worksuites_logo_web.png",
         "logo_img_alt": "WorkSuites Logo",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "type": "action",
