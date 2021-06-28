@@ -2,6 +2,7 @@
 title: How To Write a Blog Post Using Netlify CMS
 subtitle: A brief example post showing the basic elements of a blog post.
 date: 2021-06-28T16:37:53.253Z
+thumb_img_path: /images/mod-exec-pro-5.jpg
 excerpt: If you would like an excerpt of content to display on the main blog
   feed page, write it here.
 seo:
