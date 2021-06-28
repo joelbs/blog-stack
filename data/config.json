@@ -38,7 +38,7 @@
     "footer": {
         "type": "footer",
         "content": "&copy; WorkSuites. All rights reserved.",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "type": "action",
