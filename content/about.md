@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About WorkSuites
 subtitle: This is a short page about me and my work
 img_alt: A man standing on a rock outside the cave
 seo:
