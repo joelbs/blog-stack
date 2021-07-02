@@ -10,4 +10,3 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-publish_mode: editorial_workflow
