@@ -1,6 +1,5 @@
 [build]
 publish = "public"
-publish_mode = "editorial_workflow"
 command = "./stackbit-build.sh"
 
   [build.environment]
