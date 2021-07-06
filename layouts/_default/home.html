@@ -8,7 +8,7 @@
         {{ partial "markdownify-block" $.Params.intro_content }}
       </div>
       {{ end }}
-      {{ if $.Params.intro_actions }}
+      <!-- {{ if $.Params.intro_actions }}
       <div class="intro-cta">
         {{ range $action := $.Params.intro_actions }}
         <a href="{{ $action.url | relURL }}"
@@ -19,7 +19,7 @@
         </a>
         {{ end }}
       </div>
-      {{ end }}
+      {{ end }} -->
     </div>
   </div><!-- .intro -->
   {{ end }}
