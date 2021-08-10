@@ -24,7 +24,7 @@ WorkSuites is planting some new roots in Downtown Houston and we are over-the-ro
 
 # If you're new ...
 
-WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and continuing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
 
 ![office space for rent](/images/private-office-space.png "Executive Suite")
 
@@ -36,6 +36,6 @@ WorkSuites’ executive suites and all-inclusive office suites in Downtown Houst
 
 # Don't miss out
 
-Now is the time to start planning for your move to our new incredible location. We plan to open our doors early September of 2021! You don't want to miss out on early bird pricing and it's never too early to schedule your free, private tour!
+Now is the time to start planning for your move to our new incredible location. We plan to open our doors early September of 2021. You don't want to miss out on early bird pricing and it's never too early to schedule your free, private tour!
 
 Head over to our [location page](https://www.worksuites.com/texas/1000-main-houston) for more information and to schedule your free tour of our new Downtown Houston location at 1000 Main!
