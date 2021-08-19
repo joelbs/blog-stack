@@ -29,4 +29,46 @@ The contest runs from **July 1st to July 31st, 2021** and the winner will be a
 
 **Please send essay entries to [workisgood@worksuites.com](mailto:workisgood@worksuites.com)**
 
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
+
+Update*
+
+**Congrats to Carmen Joyner!**
+
+
+
+![](/images/veteran-winner.jpg)
+
+Carmen went into the US Air Force in November of 1981. She did basic training in San Antonio, Texas, attended technical school in Rantoul, Illinois, and was permanently stationed in Tampa, Florida at MacDill Air Force Base, where she worked on F-16 aircrafts as a Pneumatic Hydraulic Mechanic. 
+
+Carmen, your story was heartfelt and left a lasting impression on us. We chose you as the winner because of your positivity, your perseverance, and because you continue to touch the lives of veterans around you with your business, Recruit2Work. 
+
+Recruit2Work helps put veterans to work by offering support for veterans who are looking for work. If you are a veteran, you can be sure that Recruit2Work will help you in your journey of finding employment by placing you in a company that will fit your skill set and culture! 
+
+Thank you so much to everyone who entered the contest. Your submissions and stories were all amazing to read, and every single one of you deserves to succeed in everything you do. And you all undoubtedly will! We look forward to watching all of you change the world with your visions.
+
+### Wait, there's more!
+
+After reading each and every essay, we collectively decided to giveaway a free coworking space to 6 additional winners!
+
+Lets congratulate the following winners of our coworking space!
+
+Phoenix Marcon
+
+Mitch Mckinley
+
+Jermaine Jackson
+
+Ericca and Jeremy Franco
+
+Cornelious Cannon
+
+Thank you all for your service, hard work, dedication, and for putting your unique talents to work to make this world a better place. We appreciate every one of you and can't wait to watch your businesses flourish!
+
+
+
+<!--EndFragment-->
+
+
+
 <!--EndFragment-->
