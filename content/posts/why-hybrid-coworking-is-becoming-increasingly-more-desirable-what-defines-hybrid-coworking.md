@@ -25,7 +25,7 @@ Hybrid coworking is well suited for in office and remote workers it offers a pla
 
 Hybrid workplaces are cost-friendly for businesses. Traditionally, renting office space implies having to commit to a lease for several years. Hybrid coworking takes the "lease" out of the equation by offering you different membership tiers that are month to month. 
 
-For example, WorkSuites has three levels of hybrid coworking that all offer a full range of amenities and dedicates private office days for you depending on the membership. 
+For example, WorkSuites has three levels of hybrid coworking that all offer a full range of amenities and dedicates private office days for you. 
 
 Companies are increasingly looking to hybrid coworking as a way to cut unnecessary overhead expenses. As more and more employees want flexibility in their work schedule, businesses are realizing that reducing unused office space is the best way to release themselves of unbeneficial expenses.
 
@@ -41,9 +41,17 @@ Along with networking, working in an environment that inspires conversation is h
 
 There is something to be said about workspaces that offer scalable working environments. Traditional offices spaces lack the ability to scale with the business; however, coworking spaces are able to effortlessly scale to the size of the business.
 
+When businesses rent an office space they need to think about how the space can grow with them. As a business grows and welcomes more talents they will need a place to work that is conducive to the work they perform.
+
+WorkSuites coworking memberships allows for scalability as businesses are able to utilize the coworking space, unite in the collaboration room, work in a private office, and get work done at a hot desk.
+
 ## Better workplace outcomes | hybrid workplace solutions
 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+Studies show that engaged employees prefer to spend more of their time outside of their company HQ. Unlike a traditional work space model, employees are able to positively interact with new talents which leads to positive results for the company and the employer.
+
+Due to the way traditional office spaces are designed, employees have limited interaction with their coworkers which in turn construct feelings of isolation and leads to decreased work productivity.
+
+To conclude, hybrid workplace solutions lead to better workplace outcomes.
 
 ## Flexibility
 
