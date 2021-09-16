@@ -19,7 +19,7 @@ After reading this article you will understand why hybrid coworking is on a rise
 
 ## Hybrid coworking defined
 
-Hybrid coworking is well suited for in office and remote workers it offers a place for all employees to interact, collaborate, and network. Often times employees will commute to work three times a week and work from home the other days. This work model reduces employee fatigue and stress all while increasing productivity and overall job satisfaction.
+Hybrid coworking is well suited for in office and remote workers, it offers a place for all employees to interact, collaborate, and network. Often times employees will commute to work three times a week and work from home the other two days. This work model reduces employee fatigue and stress all while increasing productivity and overall job satisfaction.
 
 ## Cost effective hybrid office
 
@@ -27,19 +27,19 @@ Hybrid workplaces are cost-friendly for businesses. Traditionally, renting offic
 
 For example, WorkSuites has three levels of hybrid coworking that all offer a full range of amenities and dedicates private office days for you. 
 
-Companies are increasingly looking to hybrid coworking as a way to cut unnecessary overhead expenses. As more and more employees want flexibility in their work schedule, businesses are realizing that reducing unused office space is the best way to release themselves of unbeneficial expenses.
+Companies are increasingly looking to hybrid coworking as a way to cut unnecessary overhead expenses. As more and more employees want flexibility in their work schedule, businesses are realizing that reducing unused office space is the best way to release themselves of unnecessary expenses.
 
 ## Networking
 
 Coworking spaces have been proven to increase business and employee networks. Especially for those who suffer in isolation find that utilizing coworking spaces helps them to thrive.
 
-Often times businesses will come across new talents in coworking spaces which lead networking. Networking is one of the most advantageous aspects of utilizing a hybrid work model because it can lead to enormous opportunities to engage in business collaborations while overall increasing the number of contacts that can add value to your organization.
+Often times businesses will come across new talents in coworking spaces which lead to networking. Networking is one of the most advantageous aspects of utilizing a hybrid work model because it can lead to enormous opportunities to engage in business collaborations while overall increasing the number of contacts that can add value to your organization.
 
 Along with networking, working in an environment that inspires conversation is healthy for those who don't do well working in isolation. Hybrid coworking increases productivity, constitutes creative atmospheres, and fosters good mental energy.
 
 ## Scalable working environments
 
-There is something to be said about workspaces that offer scalable working environments. Traditional offices spaces lack the ability to scale with the business; however, coworking spaces are able to effortlessly scale to the size of the business.
+There is something to be said about workspaces that offer scalable working environments. Traditional office spaces lack the ability to scale with businesses; however, coworking spaces are able to seamlessly scale to businesses over time.
 
 When businesses rent an office space they need to think about how the space can grow with them. As a business grows and welcomes more talents they will need a place to work that is conducive to the work they perform.
 
@@ -47,7 +47,7 @@ WorkSuites coworking memberships allows for scalability as businesses are able t
 
 ## Better workplace outcomes | hybrid workplace solutions
 
-Studies show that engaged employees prefer to spend more of their time outside of their company HQ. Unlike a traditional work space model, employees are able to positively interact with new talents which leads to positive results for the company and the employer.
+Studies show that engaged employees prefer to spend more of their time outside of their company HQ. Unlike a traditional work space model, employees are able to positively interact with new talents which leads to positive results for the company and the employee.
 
 Due to the way traditional office spaces are designed, employees have limited interaction with their coworkers which in turn construct feelings of isolation and leads to decreased work productivity.
 
@@ -55,16 +55,14 @@ To conclude, hybrid workplace solutions lead to better workplace outcomes.
 
 ## Flexibility
 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+In a post-covid work, employees want more balance in their life. Hybrid workplace models offer employees the flexibility they need. Traditional office models led to employee burnout and dissatisfaction. As the future moves towards a more flexible work model employees are able to have more work-life balance with increased feelings of satisfaction.
 
-## Why employees prefer a hybrid workplace model
+Coworking spaces allows people the flexibility to work according to their own schedule, meet and collaborate with new individuals, and shorten their commute each week.
 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+## What will coworking spaces look like in a post-covid world
 
-## What will actual offices (on-site) look like post-covid
-
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+In a post-Covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct a several virtual meetings on a daily basis and to be one-hundred percent dependent on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
 
 ## Where the future of hybrid coworking is going
 
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+There is no question that a hybrid workplace approach will be the way forward for several companies - it offers scalable working environments, flexibility, and benefits businesses as well. As covid proved, working from home was a success; however, there are certain things that working from an office can offer but can't be replicated at home. Work as we use to know it has be completely transformed, so its time we say goodbye to traditional office spaces and say hello to a world of flexible hybrid workplace solutions.
