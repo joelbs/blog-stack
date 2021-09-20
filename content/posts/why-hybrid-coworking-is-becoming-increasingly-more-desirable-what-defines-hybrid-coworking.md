@@ -32,6 +32,8 @@ For example, WorkSuites has three levels of hybrid coworking that all offer a fu
 
 Companies are increasingly looking to hybrid coworking as a way to cut unnecessary overhead expenses. As more and more employees want flexibility in their work schedule, businesses are realizing that reducing unused office space is the best way to release themselves of unnecessary expenses.
 
+![](/images/hybrid-coworking-space.png)
+
 ### Networking
 
 Coworking spaces have been proven to increase business and employee networks. Especially for those who suffer in isolation find that utilizing coworking spaces helps them to thrive.
