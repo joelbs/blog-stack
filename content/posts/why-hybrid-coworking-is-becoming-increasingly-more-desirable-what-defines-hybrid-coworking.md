@@ -50,6 +50,8 @@ When businesses rent an office space they need to think about how the space can 
 
 WorkSuites coworking memberships allows for scalability as businesses are able to utilize the coworking space, unite in the collaboration room, work in a private office, and get work done at a hot desk.
 
+![](/images/shared-office-space.png)
+
 ### Flexibility
 
 In a post-covid work, employees want more balance in their life. Hybrid workplace models offer employees the flexibility they need. Traditional office models led to employee burnout and dissatisfaction. As the future moves towards a more flexible work model employees are able to have more work-life balance with increased feelings of satisfaction.
