@@ -20,7 +20,7 @@ layout: post
 ---
 WorkSuites is planting some new roots in Downtown Houston and we are over-the-roof excited about this new office because its location and amenities are unparalleled! WorkSuites will join the line of companies who have established themselves in this iconic building for decades - bringing private offices, executive suites, coworking spaces and meeting rooms to the 23rd floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
 
-1000 Main Street is located at the center of the central business district and connects to Houstons airports, energy centers, and sought-after neighborhoods. Situated between the Arts District and Discovery Green you can truly expect endless fun activities including but not limited to the 300+ dining and shopping options through the beloved Houston Tunnel System. Yes you heard that right, 1000 Main connects to the Tunnel System that offers 6-miles of underground retail and dining!
+1000 Main Street is located at the center of the central business district and connects to Houstons airports, energy centers, and sought-after neighborhoods. Situated between the Arts District and Discovery Green you can truly expect endless fun activities including, but not limited to, the 300+ dining and shopping options through the beloved Houston Tunnel System. Yes you heard that right, 1000 Main connects to the Tunnel System that offers 6-miles of underground retail and dining!
 
 # If you're new ...
 
