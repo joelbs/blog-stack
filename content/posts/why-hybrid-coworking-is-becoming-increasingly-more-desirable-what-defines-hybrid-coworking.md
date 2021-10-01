@@ -69,7 +69,7 @@ Due to the way traditional office spaces are designed, employees have limited in
 
 ## What will coworking spaces look like in a post-covid world
 
-In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct several virtual meetings on a daily basis and one-hundred percent dependent on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
+In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct several virtual meetings on a daily basis and depend on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
 
 ## Where the future of hybrid coworking is going
 
