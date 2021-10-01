@@ -4,7 +4,7 @@ title: Why Hybrid Coworking Is Becoming Increasingly More Desirable | What
 subtitle: Hybrid Coworking
 date: 2021-08-16T18:40:48.914Z
 thumb_img_path: /images/hybrid-coworking.png
-content_img_path: /images/hybrid-coworking-space-1-.png
+content_img_path: ""
 seo:
   title: ""
   description: ""
@@ -15,6 +15,8 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
+![](/images/hybrid-coworking-space.png)
+
 Traditional office space is quickly becoming a thing of the past as a surge in demand for hybrid coworking takes over. Businesses are realizing that switching to a hybrid work model is much more beneficial for the business and its employees. Studies have shown better workplace outcomes when opting for a hybrid coworking model as opposed to a traditional office space.
 
 After reading this article you will understand why hybrid coworking is on a rise, what makes it more desirable, and where the future of hybrid coworking is going.
@@ -69,7 +71,7 @@ Due to the way traditional office spaces are designed, employees have limited in
 
 ## What will coworking spaces look like in a post-covid world
 
-In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct several virtual meetings on a daily basis and one-hundred percent dependent on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
+In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct several virtual meetings on a daily basis and depend on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
 
 ## Where the future of hybrid coworking is going
 
