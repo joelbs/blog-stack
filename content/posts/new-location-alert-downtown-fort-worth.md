@@ -17,9 +17,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Downtown Fort Worth, we're coming for you in a BIG way this November! WorkSuites is headed for the most impressive building in all of Fort Worth - The Frost Tower. Located at 640 Taylor St, WorkSuites will join the line of companies who have established themselves in this iconic building for decades - bringing private offices, executive suites, coworking spaces and meeting rooms to the 12th floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
+Downtown Fort Worth, we're coming for you in a BIG way this November! WorkSuites is headed for the most impressive building in all of Fort Worth - The Frost Tower. Located at 640 Taylor Street, WorkSuites will join the line of companies who have established themselves in this iconic building for decades - bringing executive suites, coworking spaces and a state-of-the-art board room to the 12th floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
 
-640 Taylor Street is located next to Sundance Square and conveniently situated near all of the best restaurants to wine and dine in Downtown Fort Worth, including the Branch and Bird which serves artisan style dishes right outside your office door. If this isn't convincing enough, the beautiful Burnett park is just a stroll away along with the massive Fort Worth Convention Center, and the Sundance Square Shopping Center! How can you not be excited to work everyday knowing what you're surrounded by in this iconic building?
+640 Taylor Street is located next to Sundance Square and conveniently located near all of the best restaurants to wine and dine in Downtown Fort Worth, including the Branch and Bird which serves artisan style dishes right outside your office door. If this isn't convincing enough, the beautiful Burnett park is just a stroll away, along with the massive Fort Worth Convention Center, and the Sundance Square Shopping Center! How can you not be excited to work everyday knowing what you're surrounded by in this iconic building?
 
 # **If you're new ...**
 
