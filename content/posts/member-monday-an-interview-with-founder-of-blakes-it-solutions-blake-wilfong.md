@@ -1,8 +1,10 @@
 ---
-title: "Member Monday: An Interview with Founder of Blakes IT Solutions Blake Wilfong"
-subtitle: Brittany Lillie interviews Blake Wilfong
+title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions
+  Blake Wilfong"
+subtitle: WorkSuites interviews Blake Wilfong
 date: 2021-09-17T15:15:40.633Z
-thumb_img_alt: ""
+thumb_img_path: /images/2.png
+thumb_img_alt: Blake Wilfong
 excerpt: ""
 seo:
   title: ""
@@ -14,7 +16,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-**"Member Monday" is a series of interviews featuring business owners in Texas that office with WorkSuites. We discuss all things business - the motivation behind being your own boss, the successes and failures with running a business, how to deal with challenging obstacles, and advice that every aspiring entrepreneur should know.**
+**"Business Spotlight" is a series of interviews featuring business owners in Texas that office with WorkSuites. We discuss all things business - the motivation behind being your own boss, the successes and failures with running a business, how to deal with challenging obstacles, and advice that every aspiring entrepreneur should know.**
 
 Blake Wilfong is the owner and founder of the Dallas based IT company - Blakes IT Solutions. Developed so that companies can save money and space, Blakes IT Solutions is the answer to IT work for small businesses globally.
 
@@ -36,17 +38,17 @@ BW: I was really upset about the prices that people were being charged for IT wo
 
 BW: I run a small business and I like a lot of the freedoms in Dallas specifically for my business so because Dallas has been promoting such business mindset and small businesses in general it was a perfect fit for me because we didn't shut down during the pandemic, they were looser on a lot of regulations for businesses, I felt that I could come here and my business would be profitable if it was in a public space.
 
-**\*INSERT PHOTO\***
+![](/images/1.png)
 
-**WS: Did you have doubts about your business succeeding? If so, what were those doubts and how do you overcome it**
+**WS: Did you have doubts about your business succeeding? If so, what were those doubts and how did you overcome it**
 
 BW: I would say that I always have doubts about whether my business is going to succeed. I think that because I own it I know how much I need to make per month and I know how much I have to pay my employees, and what my expenses are. The thing that scares me is that it's really dependent on how much customers really enjoy my services, how much they're happy with their business, and how much value they see in me. So of course I have doubts, but typically by the end of the month I'm very happy, very profitable, and I keep moving and hopefully make more money the next month.
 
 **WS: Was there a notable failure that you learned from**
 
-BW: I don't know if I'd say there's a failure in a sense, I think that the flow of business means that you make mistakes, you lose money, but you never lose the time and information there. So I guess I wouldn't like to say that there's a failure I would like to say more that there's experiences that I didn't do well that I'll do better the next time. For instance, when I was promoting at the Bill Heath I wasn't quite prepared and understood exactly what went into it and what time I needed to be there and how to set up everything so there was a quick learning curve there but after that for the next event that I did it was pretty quick and easy to run through.
+BW: I don't know if I'd say there's a failure in a sense, I think that the flow of business means that you make mistakes, you lose money, but you never lose the time and information there. So I guess I wouldn't like to say that there's a failure I would like to say more that there's experiences that I didn't do well that I'll do better the next time. For instance, when I was promoting at the Phil Heath I wasn't quite prepared and understood exactly what went into it and what time I needed to be there and how to set up everything so there was a quick learning curve there but after that for the next event that I did it was pretty quick and easy to run through.
 
-**\*INSERT PHOTO\***
+![](/images/3.png "Phil Heath")
 
 **WS: In your opinion what are some of the most important qualities you need as an individual and entrepreneur to push through challenging obstacles**
 
