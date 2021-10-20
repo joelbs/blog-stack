@@ -3,7 +3,7 @@ title: Why Hybrid Coworking Is Becoming Increasingly More Desirable | What
   Defines Hybrid Coworking
 subtitle: Hybrid Coworking
 date: 2021-08-16T18:40:48.914Z
-thumb_img_path: /images/hybrid-coworking.png
+thumb_img_path: /images/hybrid-coworking-space.png
 content_img_path: ""
 seo:
   title: ""
