@@ -27,7 +27,7 @@ Hybrid coworking is well suited for in office and remote workers, it offers a pl
 
 ### Cost effective hybrid office
 
-Hybrid workplaces are cost-friendly for businesses. Traditionally, renting office space implies having to commit to a lease for several years. Hybrid coworking takes the "lease" out of the equation by offering you different membership tiers that are month to month. 
+Hybrid workplaces are cost-friendly for businesses. Traditionally, renting office space implies having to commit to a lease for several years. Hybrid coworking takes the "lease" out of the equation by offering you different membership tiers. 
 
 For example, WorkSuites has three levels of hybrid coworking that all offer a full range of amenities and dedicates private office days for you. One of the most desirable aspects of this cost effective structure is its flexible monthly expense. Coworking spaces give businesses the opportunity to change their decisions without penalty as they adapt to a hybrid workplace solution.
 
