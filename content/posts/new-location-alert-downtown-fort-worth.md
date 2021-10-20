@@ -2,8 +2,8 @@
 title: New Location Alert - Downtown Fort Worth
 subtitle: Our new Downtown Fort Worth location is sure to exceed your highest
   expectations. Located on the 12th floor with a stunning terrace, a private
-  on-site restaurant, and captivating views of downtown will leave you
-  feeling  like you're practically in paradise everyday.
+  on-site restaurant, and captivating views of downtown it will feel as if
+  you're in paradise everyday.
 date: 2021-10-04T16:54:42.627Z
 thumb_img_path: /images/640-taylor-building.png
 thumb_img_alt: 640 Taylor St
@@ -17,9 +17,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Downtown Fort Worth, we're coming for you in a BIG way this November! WorkSuites is headed for the most impressive building in all of Fort Worth - The Frost Tower. Located at 640 Taylor Street, WorkSuites will join the line of companies who have established themselves in this iconic building for decades - bringing executive suites, coworking spaces and a state-of-the-art board room to the 12th floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
+Downtown Fort Worth, we're coming for you in a BIG way this November! WorkSuites is headed for the most impressive building in all of Fort Worth - The Frost Tower. Located at 640 Taylor Street, WorkSuites will be one of the first companies in the Frost Tower to bring executive suites, coworking spaces and a state-of-the-art board room to the 12th floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
 
-640 Taylor Street is located next to Sundance Square and conveniently located near all of the best restaurants to wine and dine in Downtown Fort Worth, including the Branch and Bird which serves artisan style dishes right outside your office door. If this isn't convincing enough, the beautiful Burnett park is just a stroll away, along with the massive Fort Worth Convention Center, and the Sundance Square Shopping Center! How can you not be excited to work everyday knowing what you're surrounded by in this iconic building?
+640 Taylor Street is located next to Sundance Square and conveniently located near all of the best restaurants to wine and dine in Downtown Fort Worth, including the Branch and Bird which serves artisan style dishes right outside your office door. If this isn't convincing enough, the beautiful Burnett park is just a stroll away, along with the massive Fort Worth Convention Center, and the Sundance Square Shopping Center! How can you not be excited to work everyday knowing what will surround you?
 
 # **If you're new ...**
 
