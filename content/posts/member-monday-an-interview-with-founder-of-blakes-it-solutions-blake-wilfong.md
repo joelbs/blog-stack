@@ -1,5 +1,5 @@
 ---
-title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions
+title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions -
   Blake Wilfong"
 subtitle: WorkSuites interviews Blake Wilfong
 date: 2021-09-17T15:15:40.633Z
@@ -28,15 +28,13 @@ BW: Hi, so I'm Blake Wilfong, I'm 28 years old and I run IT and marketing for a 
 
 BW: My business is an IT firm that was developed so that companies don't have to pay a full time IT staff, they can outsource the work to us, therefore, we don't take up a bunch of dead space. We only work when there is work that needs to be done, the small businesses can save money and focus that money on making themselves more profitable in other areas or focus that on pushing marketing and we can just take care of all the IT problems that come up with their website or whatever else happens with them.
 
-**\*INSERT PHOTO\***
-
 **WS: What inspired you to start your business**
 
-BW: I was really upset about the prices that people were being charged for IT work and that people were being charged $10,000 for something that would take a couple of minutes. I thought that was very dishonest because sometimes IT staff wouldn't work that hard and they would essentially tell a customer that they were spending more time working than they actually were. I felt there was a very bad transparency because most people don't know the technical side of IT and then when you get someone that comes in that actually does then there's a real time frame for something it a lot of times is hard for the customer to realize and understand. So I was just upset about how dishonest the industry was.
+BW: I was really upset about the prices that people were being charged for IT work and that people were being charged $10,000 for something that would take a couple of minutes. I thought that was very dishonest because sometimes IT staff wouldn't work that hard and they would essentially tell a customer that they were spending more time working than they actually were. I felt there was a very bad transparency because most people don't know the technical side of IT and then when you get someone who comes in and does then there's a real time frame for something. It a lot of times is hard for the customer to realize and understand. So I was just upset about how dishonest the industry was.
 
 **WS: What made you choose Dallas, Texas as a place to run your business**
 
-BW: I run a small business and I like a lot of the freedoms in Dallas specifically for my business so because Dallas has been promoting such business mindset and small businesses in general it was a perfect fit for me because we didn't shut down during the pandemic, they were looser on a lot of regulations for businesses, I felt that I could come here and my business would be profitable if it was in a public space.
+BW: I run a small business and I like a lot of the freedoms in Dallas, specifically for my business, so because Dallas has been promoting such business mindset and small businesses in general it was a perfect fit for me because we didn't shut down during the pandemic, they were looser on a lot of regulations for businesses, I felt that I could come here and my business would be profitable if it was in a public space.
 
 ![](/images/1.png)
 
@@ -52,11 +50,11 @@ BW: I don't know if I'd say there's a failure in a sense, I think that the flow 
 
 **WS: In your opinion what are some of the most important qualities you need as an individual and entrepreneur to push through challenging obstacles**
 
-BW: You need to be headstrong. I wouldn't say that you need a good support system, I think that you need to be your own support system, I think that you need to be able to weather the blows whether thats financially or whether that's emotionally or mentally. I think that you need to have a work ethic where I like wake up in the morning and my work starts as soon as I read the first email in the morning and work ends as soon as I finish the last email at night so as soon as I put my phone on the bed stand and as soon as I pick it up in the morning that's when work starts for me and ends. It's always working and you have to be willing to do that so that the reward later on is that you don't have to do that.
+BW: You need to be headstrong. I wouldn't say that you need a good support system, I think that you need to be your own support system, I think that you need to be able to weather the blows, whether that's financially or whether that's emotionally or mentally. I think that you need to have a good work ethic, for example, I wake up in the morning and my work starts as soon as I read the first email in the morning and work ends as soon as I finish the last email at night so as soon as I put my phone on the bed stand and as soon as I pick it up in the morning that's when work starts for me and ends. It's always working and you have to be willing to do that so that the reward later on is that you don't have to do that.
 
 **WS: Were there people who doubted your business idea**
 
-BW: Yeah everyone. I don't think there were a lot of people that thought it was going to be super successful when I started it, including my dad including everyone around me and it was very very difficult to start swimming and treading above water that's why I say you don't necessarily need a support system you just need to have a strong head and weather the blows.
+BW: Yeah everyone. I don't think there were a lot of people that thought it was going to be super successful when I started it, including my dad including everyone around me and it was very very difficult to start swimming and treading above water, that's why I say you don't necessarily need a support system you just need to have a strong head and weather the blows.
 
 **WS: What piece of advice would you want your younger self to know as an aspiring entrepreneur**
 
