@@ -15,7 +15,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-![](/images/hybrid-coworking-space.png)
+![]()
 
 Traditional office space is quickly becoming a thing of the past as a surge in demand for hybrid coworking takes over. Businesses are realizing that switching to a hybrid work model is much more beneficial for the business and its employees. Studies have shown better workplace outcomes when opting for a hybrid coworking model as opposed to a traditional office space.
 
@@ -35,7 +35,7 @@ For example, WorkSuites has three levels of hybrid coworking that all offer a fu
 
 Companies are increasingly looking to hybrid coworking as a way to cut unnecessary overhead expenses. As more and more employees want flexibility in their work schedule, businesses are realizing that reducing unused office space is the best way to release themselves of unnecessary expenses.
 
-![](/images/hybrid-coworking-space.png)
+![](/images/coworking-space.png)
 
 ### Networking
 
@@ -53,7 +53,7 @@ When businesses rent an office space they need to think about how the space can 
 
 WorkSuites coworking memberships allows for scalability as businesses are able to utilize the coworking space, unite in the collaboration room, work in a private office, and get work done at a hot desk.
 
-![](/images/shared-office-space.png)
+![](/images/hybrid-coworking.png)
 
 ### Flexibility
 
