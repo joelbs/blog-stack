@@ -32,7 +32,7 @@ WorkSuites has been providing private offices, hybrid coworking spaces, meeting 
 
 WorkSuites’ executive suites and all-inclusive office suites in Downtown Houston is the most sought-after, prestigious address in Houston. These all-inclusive offices for rent are ideally located at the corner of Lamar and Main with convenient access to luxury covered parking and Houston’s climate-controlled tunnel system providing direct access to 300+ dining and shopping options.  Choosing WorkSuites for your private office, shared office, virtual office, executive suites or coworking space in the Houston region will place you in a community of professionals serious about getting real work done. WorkSuites Downtown Houston offices occupy the 23rd floor of a beautifully designed Class AA office tower and boasts executive suites, board rooms, team rooms, a state-of-the-art conference center offering flexible options to accommodate up to 115 people, a variety of coworking spaces, a full service coffee lounge, the latest IT infrastructure, and a state of the art game room and amenity hub. The Gensler-designed hub provides several spaces to retreat and refuel with a separate gaming area featuring two Top-Golf simulators, pool table, shuffleboard and multiple TVs offers the perfect work and play balance.
 
-![coworking space](/images/downtown-houston-training-rooms.png "Conference Room")
+![conference room](/images/downtown-houston-training-rooms.png "Conference Room")
 
 # Don't miss out
 
