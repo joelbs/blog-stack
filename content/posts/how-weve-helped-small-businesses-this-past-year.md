@@ -11,7 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-This past year WorkSuites has given away two free private offices for a full year, multiple coworking memberships, and virtual offices to deserving veteran entrepreneurs and local startup companies. Our goal is to help local businesses get back on their feet after a tough year and provide them with an inspiring workspace to be productive and grow their business. Their free, fully furnished workplace includes a professional business address, mail and package handling, a professional receptionist, unlimited coffee and tea, a fully stocked kitchen, 24/7 access, wifi, printing/scanning, and so much more.
+This past year WorkSuites has given away two free private offices for a full year, multiple coworking memberships, and virtual offices to deserving veteran entrepreneurs and local startup companies. Our goal is to help local businesses get back on their feet after a tough year and provide them with an inspiring workspace to be productive and grow their business. Their free, fully furnished workplace includes a professional business address, mail and package handling, a professional receptionist, unlimited coffee and tea, a fully stocked kitchen, 24/7 access, Wi-Fi, printing/scanning, and so much more.
 
 ## If you're new ...
 
