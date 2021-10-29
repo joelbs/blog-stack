@@ -24,7 +24,7 @@ WorkSuites is planting some new roots in Downtown Houston and we are over-the-ro
 
 # If you're new ...
 
-WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
 
 ![office space for rent](/images/downtown-houston-office-space.png "Private Office")
 
