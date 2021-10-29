@@ -15,7 +15,7 @@ This past year WorkSuites has given away two free private offices for a full yea
 
 ## If you're new ...
 
-WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
 
 ![](/images/office-space-for-rent.png "Private Office Space")
 
