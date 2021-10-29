@@ -15,8 +15,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-![]()
-
 Traditional office space is quickly becoming a thing of the past as a surge in demand for hybrid coworking takes over. Businesses are realizing that switching to a hybrid work model is much more beneficial for the business and its employees. Studies have shown better workplace outcomes when opting for a hybrid coworking model as opposed to a traditional office space.
 
 After reading this article you will understand why hybrid coworking is on a rise, what makes it more desirable, and where the future of hybrid coworking is going.
@@ -29,7 +27,7 @@ Hybrid coworking is well suited for in office and remote workers, it offers a pl
 
 ### Cost effective hybrid office
 
-Hybrid workplaces are cost-friendly for businesses. Traditionally, renting office space implies having to commit to a lease for several years. Hybrid coworking takes the "lease" out of the equation by offering you different membership tiers that are month to month. 
+Hybrid workplaces are cost-friendly for businesses. Traditionally, renting office space implies having to commit to a lease for several years. Hybrid coworking takes the "lease" out of the equation by offering you different membership tiers. 
 
 For example, WorkSuites has three levels of hybrid coworking that all offer a full range of amenities and dedicates private office days for you. One of the most desirable aspects of this cost effective structure is its flexible monthly expense. Coworking spaces give businesses the opportunity to change their decisions without penalty as they adapt to a hybrid workplace solution.
 
@@ -71,7 +69,7 @@ Due to the way traditional office spaces are designed, employees have limited in
 
 ## What will coworking spaces look like in a post-covid world
 
-In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to conduct several virtual meetings on a daily basis and depend on technology, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
+In a post-covid world we expect coworking spaces to have plenty of room for people to be productive while still remaining 6ft apart, technology will be extremely important in coworking areas as we expect people to be dependent on technology as they conduct several virtual meetings daily, and finally we expect a lot of automation that will limit the need to press or touch several communal surfaces such as an elevator button, door handle, and screen remote.
 
 ## Where the future of hybrid coworking is going
 
