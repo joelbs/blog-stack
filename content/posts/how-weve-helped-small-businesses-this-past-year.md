@@ -1,5 +1,5 @@
 ---
-title: How we've helped small businesses this past year
+title: WorkSuites Gives Back
 date: 2021-10-29T14:59:03.466Z
 seo:
   title: ""
@@ -36,3 +36,9 @@ We later partnered with the Dallas Entrepreneurial Center to award a private off
 Howdy Homemade Ice Cream employs people with Autism and Down Syndrome by celebrating this community's unique powers. They are here to change the way businesses, hire, train, and develop their own heroes. Howdy Homemade is leading the way so that more heroes can become contributing members of their organizations.
 
 ![](/images/howdy-homemade-ice-cream.png "Howdy Homemade Ice Cream")
+
+## Be on the lookout ...
+
+Hold on, we aren't finished yet! WorkSuites plans on giving away another free, fully furnished private office to one deserving individual, for all we know it could be you so don't miss out!
+
+Follow us on social media to stay up-to-date with our upcoming giveaways!
