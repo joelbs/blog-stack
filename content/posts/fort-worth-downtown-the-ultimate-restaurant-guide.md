@@ -28,4 +28,7 @@ Instead of saving the best for last, we're going to discuss the best first becau
 
 The best part about Branch and Bird - its location. If you are lucky enough to office in our new Fort Worth Downtown location at 640 Taylor St you can expect Branch and Bird to be steps away from your office on the 12th floor!
 
-* [Al Dente Italian Trattoria](https://al-dente-italian-trattoria.business.site/) - Family owned and operated this place serves superior homemade Italian food!
+### Italian
+
+* [Al Dente Italian Trattoria](https://al-dente-italian-trattoria.business.site/) - Family owned and operated, this place serves superior homemade Italian food! With over 100 online reviews you'll quickly find that the true Italians rave about this place! At Al Dente Italian Trattoria, you get much more than what you pay for. Stop on in and let us know what you think!
+* [Il Modo](https://www.theharperfortworth.com/restaurants-fort-worth/il-modo/) - A modern Italian restaurant that is known for its forward thinking mindset, you can expect exceptional Italian dishes and customer service. Not only is their pasta fresh - il Modo has a room dedicated to pasta making - but their ingredients are locally sourced from Texas farms and ranches. While their menu is on the pricier side, you can expect il Modo to surpass your highest expectations!
