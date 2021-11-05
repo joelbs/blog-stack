@@ -35,4 +35,9 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 
 ### American
 
-* 203 Cafe -
+* [203 Cafe](https://203cafe.com/) - Located on the second floor of the Fire Station No. 1 building you can expect a relaxed breakfast and lunch along with complimentary catering to businesses located in Downtown Fort Worth. Customers are raving about their homemade sandwiches and unparalled customer service with over a 4.5 star rating! Stop by 203 Cafe between 7am-2pm Monday-Friday!
+* [Chef's Table at Sheraton Fort Worth](https://www.marriott.com/hotels/hotel-information/restaurant/dfwds-sheraton-fort-worth-downtown-hotel/) - Located at the Sheraton Hotel you can expect an all-American cuisine with the classic Fort Worth twist. Stop in and watch live games on their HDTVs or relax after attending a nearby event!
+
+### Southwestern
+
+* [Cast Iron Restaurant at the Omni Hotel](https://www.omnihotels.com/hotels/fort-worth/dining/cast-iron) -
