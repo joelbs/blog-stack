@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine.
+Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're  in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide as we're sure you won't be disappointed!
 
 ## If you're new ...
 
@@ -40,4 +40,14 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 
 ### Southwestern
 
-* [Cast Iron Restaurant at the Omni Hotel](https://www.omnihotels.com/hotels/fort-worth/dining/cast-iron) -
+* [Cast Iron Restaurant at the Omni Hotel](https://www.omnihotels.com/hotels/fort-worth/dining/cast-iron) - Looking for some true southwestern flavor? The Cast Iron Restaurant has just what you're looking for. Cast Iron captures a southern twist on classic hometown meals with locally sourced ingredients from our Texas farms and ranches. Visit the Cast Iron Restaurant at 1300 Houston St.
+* [Razzoos Cajun Cafe](https://www.razzoos.com/sundance) - There's never a dull moment when you're at Razzoo's! This place is full of personality and will make for an all-around fun experience. Razzoos serves the BEST cajun and bayou food in all of Fort Worth! Located in the heart of Sundance Square you'll have to be sure to stop in!
+
+### Barbeque
+
+* [Riscky's Bar-B-Q](https://risckys.com/risckys-bbq/) - Riscky's motto - Best Darn BBQ this side of anywhere. Well we are sure of that! Looking for the most authentic, Texan barbeque style food? Stop into Riscky's Bar-B-Q in downtown Fort Worth. With over 1,600 google reviews, this place has been around long enough to completely perfect the art of making true southern BBQ!
+* [Bailey's Barbeque](https://www.loc8nearme.com/texas/fort-worth/baileys-bbq/4851268/) - On a quick lunch break and looking to purchase some barbeque food without the wait? Bailey's Barbeque is the perfect stop when you're in a time crunch! Open 7am-3pm Monday-Friday you can expect some great southern barbeque - Bailey's has been around since 1931 and continues to serve impressive barbeque in the heart of downtown Fort Worth!
+
+### Tex-Mex
+
+*
