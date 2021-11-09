@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're  in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide as we're sure you won't be disappointed!
+Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide as we're sure you won't be disappointed!
 
 ## If you're new ...
 
@@ -56,4 +56,9 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 ### Breakfast and Brunch
 
 * [Yolk](https://eatyolk.com/) - A go to for many people, Yolk serves the kind of breakfast food you dream of - with specialty juices and private label premium coffee you can expect scrumptious food and generous portions. Open Monday-Monday be sure you stop in with your family for a breakfast that truly will not disappoint!
-* [Corner Bakery Cafe](https://www.cornerbakerycafe.com/menu) -
+* [Corner Bakery Cafe](https://www.cornerbakerycafe.com/menu) - With countless locations throughout Dallas and Fort Worth, Corner Bakery Cafe is a must-stop for breakfast and coffee! From their hot made-to-order scramblers all the way to their decadent desserts you'll be happy you stopped at the Corner Bakery Cafe.
+
+### Asian
+
+* [PF Changs China Bistro](https://www.pfchangs.com/locations/us/tx/ft-worth/400-throckmorton/9972-ft-worth.html) - Offers the perfect balance or aromas for the ultimate Chinese cuisine experience in downtown Fort Worth. When you walk into PF Changs you'll instantly feel like you're in another world. Their soothing atmosphere, delicious food, and 5-star customer service will leave you wanting more!
+*
