@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-WorkSuites has officially made its way to The Frost Tower in Downtown Fort Worth and we are over the roof excited! Known as one of the most iconic buildings in Downtown Fort Worth, WorkSuites is now live with available offices and a coworking space on the 12th floor! Offering just over 5,000 square feet of private offices and meeting rooms and a surreal view of downtown, you'll be wanting to call this place home!
+WorkSuites has officially made its way to The Frost Tower in Downtown Fort Worth and we are over the roof excited! Known as one of the most iconic buildings in Downtown Fort Worth, WorkSuites is now live with available offices and a coworking space on the 12th floor! Offering just over 5,000 square feet of office space with a surreal view of downtown, you'll be wanting to call this place home!
 
 ![](/images/private-office-space-in-downtown-fort-worth.png)
 
@@ -27,8 +27,6 @@ The Fit & Fit-X Fitness Center features modern male and female lockers, towel se
 ## If you're new ...
 
 WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
-
-
 
 ## Claim your office before it's too late ...
 
