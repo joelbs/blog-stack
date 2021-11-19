@@ -30,4 +30,4 @@ WorkSuites has been providing private offices, hybrid coworking spaces, meeting 
 
 ## Claim your office before it's too late ...
 
-I'm sure by now you're dying to call this place home! Well, lucky for you it's not too late! Visit our locations page to set up a tour! The office you've always dreamed of is soon-to-be yours!
+I'm sure by now you're dying to call this place home! Well, lucky for you it's not too late! Visit our [locations](https://www.worksuites.com/texas/640-taylor-fort-worth) page to set up a tour! The office you've always dreamed of is soon-to-be yours!
