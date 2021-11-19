@@ -60,7 +60,7 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 
 ### Asian
 
-* [PF Changs China Bistro](https://www.pfchangs.com/locations/us/tx/ft-worth/400-throckmorton/9972-ft-worth.html) - Offers the perfect balance or aromas for the ultimate Chinese cuisine experience in downtown Fort Worth. When you walk into PF Changs you'll instantly feel like you're in another world. Their soothing atmosphere, delicious food, and 5-star customer service will leave you wanting more!
+* [PF Changs China Bistro](https://www.pfchangs.com/locations/us/tx/ft-worth/400-throckmorton/9972-ft-worth.html) - Offers the perfect balance of aromas for the ultimate Chinese cuisine experience in Downtown Fort Worth. When you walk into PF Changs you'll instantly feel like you're in another world. Their soothing atmosphere, delicious food, and 5-star customer service will leave you wanting more!
 * [Hoya Korean Kitchen](http://www.hoyakoreankitchen.com/) - Looking for mouthwatering korean barbeque? Hoya Korean Kitchen is your next stop! They serve slow-cooked authentic Korean cuisine in the heart of sundance square. Known for their one-bowl wonders and innovative dishes you can expect Hoya Korean Kitchen to surpass your expectations and leave you craving more!
 
 ### Seafood
