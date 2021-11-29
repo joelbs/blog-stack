@@ -1,6 +1,6 @@
 ---
 title: Downtown Fort Worth is Now Live!
-date: 2021-11-17T18:05:07.756Z
+date: 2021-11-15T18:05:07.756Z
 thumb_img_path: /images/downtown-fort-worth.png
 seo:
   title: ""
