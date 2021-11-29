@@ -12,11 +12,11 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide as we're sure you won't be disappointed!
+Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide!
 
 ## If you're new ...
 
-WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with over 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
 
 ![](/images/office-space-for-rent-in-downtown-fort-worth.png)
 
