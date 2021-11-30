@@ -65,4 +65,5 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 
 ### Seafood
 
-* [Waters](https://waterstexas.com/) -
+* [Waters](https://waterstexas.com/) - Chef Bonnell will be sure to amaze you. His upscale seafood spot offers a raw bar, steaks, vegetarian options, and daily specials. If you're in the mood for fancy seafood from world renowned chef Jon Bonnell, then this is the place to go.
+* [Grace](https://gracefortworth.com/) - Ready for a modern approach to American classics? Chef Blaine Stanifords dishes emphasize purity, simplicity, and seasonal flavors. Enjoy a comfortable modern setting in downtown Fort Worth with an outdoor terrace featuring a spectacular bar!
