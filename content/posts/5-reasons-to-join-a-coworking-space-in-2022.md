@@ -1,5 +1,5 @@
 ---
-title: 5 REASONS TO JOIN A COWORKING SPACE IN 2022
+title: 5 Reasons to Join a Coworking Space in 2022
 date: 2021-12-02T17:35:53.861Z
 seo:
   title: ""
@@ -29,9 +29,13 @@ Are you ready to be surrounded with driven, goal-oriented people? Being a part o
 
 We take pride in the energy our coworking spaces emit! By using bright, fluorescent lights, green accents and custom pieces of artwork our workspace will awaken your creative side!
 
+![meeting room](/images/meeting-room.png "Meeting Room")
+
 ## 4. Central Location
 
 Make your clients life easier with a central location for all meetings! WorkSuites hybrid coworking memberships gives members-only access to private office days. With our unique coworking offerings you can be sure to hold professional meetings in a distraction-free space!
+
+![office space](/images/solo-office.png "Solo Office")
 
 ## 5. PERKS
 
@@ -46,10 +50,14 @@ An overview of perks to enjoy:
 * Community events
 * Multiple workstations (meeting rooms, hot desks, private offices, lounge areas, podcast rooms, etc)
 
+![gym](/images/gym.png "Fitness Facility")
+
 ## If you're new ...
 
 WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
 
 ## Join our coworking space before the end of the year for extra savings ...
 
-Yes, you heard that right! If you sign up for a coworking membership at [Downtown Houston](https://www.worksuites.com/texas/1000-main-houston-coworking/) or [Downtown Fort Worth](https://www.worksuites.com/texas/640-taylor-fort-worth-coworking/) before the end of the year, you'll receive 50% off your membership! That's incredible!
+Yes, you heard that right! If you sign up for a coworking membership at [Downtown Houston](https://www.worksuites.com/texas/1000-main-houston-coworking/) or [Downtown Fort Worth](https://www.worksuites.com/texas/640-taylor-fort-worth-coworking/) before the end of the year, you'll receive 50% off your membership! That's incredible! 
+
+Email workisgood@worksuites.com and mention "5 Reasons to Join a Coworking Space in 2022" for 50% off a coworking membership at participating locations.
