@@ -9,7 +9,9 @@ thumb_img_path: /images/640-taylor-building.png
 thumb_img_alt: 640 Taylor St
 seo:
   title: New Office Space Coming To Downtown Fort Worth
-  description: ""
+  description: Expect a private on-site restaurant right outside your office door
+    and enjoy surreal skylines views while officing on the 12th floor in the
+    beautifully designed Frost Tower.
   extra:
     - name: ""
       value: ""
