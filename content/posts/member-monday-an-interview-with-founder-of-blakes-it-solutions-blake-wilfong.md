@@ -1,7 +1,7 @@
 ---
 title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions -
   Blake Wilfong"
-subtitle: WorkSuites interviews Blake Wilfong
+subtitle: ""
 date: 2021-09-17T15:15:40.633Z
 thumb_img_path: /images/2.png
 thumb_img_alt: Blake Wilfong
@@ -17,6 +17,8 @@ seo:
 layout: post
 ---
 **"Business Spotlight" is a series of interviews featuring business owners in Texas that office with WorkSuites. We discuss all things business - the motivation behind being your own boss, the successes and failures with running a business, how to deal with challenging obstacles, and advice that every aspiring entrepreneur should know.**
+
+# **WorkSuites Interviews Founder Of Blakes IT Solutions ...**
 
 Blake Wilfong is the owner and founder of the Dallas based IT company - Blakes IT Solutions. Developed so that companies can save money and space, Blakes IT Solutions is the answer to IT work for small businesses globally.
 
