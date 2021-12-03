@@ -8,7 +8,7 @@ date: 2021-10-04T16:54:42.627Z
 thumb_img_path: /images/640-taylor-building.png
 thumb_img_alt: 640 Taylor St
 seo:
-  title: ""
+  title: New Office Space Coming To Downtown Fort Worth
   description: ""
   extra:
     - name: ""
