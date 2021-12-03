@@ -27,7 +27,7 @@ Are you ready to be surrounded with driven, goal-oriented people? Being a part o
 
 ## 3. Creativity
 
-We take pride in the energy our coworking spaces emit! By using bright, fluorescent lights, green accents and custom pieces of artwork our workspace will awaken your creative side!
+We take pride in the energy our coworking spaces shed! By using bright, fluorescent lights, green accents and custom pieces of artwork our workspace will awaken your creative side!
 
 ![meeting room](/images/meeting-room.png "Meeting Room")
 
