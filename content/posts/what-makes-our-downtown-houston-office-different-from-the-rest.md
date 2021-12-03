@@ -9,8 +9,11 @@ thumb_img_path: /images/downtown-houston-private-office-space.png
 thumb_img_alt: 1000 Main Street
 content_img_alt: ""
 seo:
-  title: ""
-  description: ""
+  title: New Office Space Coming to Downtown Houston
+  description: Two gold simulators, shuffleboard, and a pool table! This new
+    office space will have everything you'll need to make work fun. Located on
+    the 23rd floor with surreal skyline views, you won't want to miss your
+    chance to office here.
   extra:
     - name: ""
       value: ""
