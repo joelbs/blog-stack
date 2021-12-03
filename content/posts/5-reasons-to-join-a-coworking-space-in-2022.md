@@ -34,13 +34,13 @@ Are you ready to be surrounded with driven, goal-oriented people? Being a part o
 
 We take pride in the energy our coworking spaces shed! By using bright, fluorescent lights, green accents and custom pieces of artwork our workspace will awaken your creative side!
 
-![meeting room](/images/meeting-room.png "Meeting Room")
+![The meeting room inside WorkTank](/images/meeting-room.png "Meeting Room")
 
 ## 4. Central Location
 
 Make your clients life easier with a central location for all meetings! WorkSuites hybrid coworking memberships gives members-only access to private office days. With our unique coworking offerings you can be sure to hold professional meetings in a distraction-free space!
 
-![office space](/images/solo-office.png "Solo Office")
+![A solo office space in downtown Houston](/images/solo-office.png "Solo Office")
 
 ## 5. PERKS
 
@@ -55,7 +55,7 @@ An overview of perks to enjoy:
 * Community events
 * Multiple workstations (meeting rooms, hot desks, private offices, lounge areas, podcast rooms, etc)
 
-![gym](/images/gym.png "Fitness Facility")
+![The fitness center in the Galleria Towers](/images/gym.png "Fitness Facility")
 
 ## If you're new ...
 
