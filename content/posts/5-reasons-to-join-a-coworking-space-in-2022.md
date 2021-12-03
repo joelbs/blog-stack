@@ -11,7 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-# Coworking Is Here To Stay
+# Coworking Is Here To Stay ...
 
 Wow I can't believe we are less than one month away from the start of 2022! Time is flying by. This has been a big year for WorkSuites! In the opening of 2 new downtown locations, we've become more concrete in our belief that hybrid coworking is here to stay and we see so much positivity that reflects it.
 
