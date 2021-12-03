@@ -4,7 +4,7 @@ title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions -
 subtitle: ""
 date: 2021-09-17T15:15:40.633Z
 thumb_img_path: /images/2.png
-thumb_img_alt: Blake Wilfong
+thumb_img_alt: ""
 excerpt: ""
 seo:
   title: ""
