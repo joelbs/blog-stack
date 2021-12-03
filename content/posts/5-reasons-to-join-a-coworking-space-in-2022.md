@@ -1,6 +1,7 @@
 ---
 title: 5 Reasons to Join a Coworking Space in 2022
 date: 2021-12-02T17:35:53.861Z
+thumb_img_path: /images/hybrid-coworking.png
 seo:
   title: ""
   description: ""
