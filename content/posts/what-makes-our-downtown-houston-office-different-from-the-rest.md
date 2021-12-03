@@ -21,7 +21,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-# WorkSuites is coming to Downtown Houston ...
+# WorkSuites Is Coming To Downtown Houston ...
 
 WorkSuites is planting some new roots in Downtown Houston and we are over-the-roof excited about this new office because its location and amenities are unparalleled! WorkSuites will join the line of companies who have established themselves in this iconic building for decades - bringing private offices, executive suites, coworking spaces and meeting rooms to the 23rd floor - you won't want to miss your chance to work with a vibrant community of professionals serious about getting real work done.
 
