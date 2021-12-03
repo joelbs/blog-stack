@@ -61,3 +61,11 @@ BW: Yeah everyone. I don't think there were a lot of people that thought it was 
 **WS: What piece of advice would you want your younger self to know as an aspiring entrepreneur**
 
 BW: No matter how fast you want to go in business it's going to flow the way that it flows. So if I push, push, push, push it's not always going to equal results, sometimes you need to take a deep breath and focus on yourself and other parts of your life other than just your business.
+
+## If you're new ...
+
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+
+## Need an office space ...
+
+Did you know our [hybrid coworking memberships](https://www.worksuites.com/coworking/) comes with access to private office days for members-only? Email workisgood@worksuites.com and mention this blog post to receive 30% off our hybrid coworking memberships.
