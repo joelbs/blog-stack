@@ -3,8 +3,10 @@ title: 5 Reasons to Join a Coworking Space in 2022
 date: 2021-12-02T17:35:53.861Z
 thumb_img_path: /images/hybrid-coworking.png
 seo:
-  title: ""
-  description: ""
+  title: 5 Reasons to Join a Coworking Space
+  description: Working from home can be fun at first, but eventually you'll start
+    to feel isolated and lonely. One of the most alluring things about coworking
+    is that ...
   extra:
     - name: ""
       value: ""
