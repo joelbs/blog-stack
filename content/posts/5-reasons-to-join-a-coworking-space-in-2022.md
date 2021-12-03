@@ -11,9 +11,9 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-Wow I can't believe we are less than one month away from the start of 2022! Time is flying by. This has been a big year for WorkSuites! In the opening of X locations, we've become more concrete in our belief that hybrid coworking is here to stay and we see so much positivity that reflects it.
+Wow I can't believe we are less than one month away from the start of 2022! Time is flying by. This has been a big year for WorkSuites! In the opening of 2 new downtown locations, we've become more concrete in our belief that hybrid coworking is here to stay and we see so much positivity that reflects it.
 
-As we predicted, coworking spaces are continuing to grow and expand across the globe, but at rates that exceed our original predictions. What's the hype all about you may wonder? Here are 5 reasons you should consider joining a coworking space in 2022!
+As we predicted, coworking spaces are continuing to grow and expand across the globe, but at rates that exceed our original predictions. What's the hype all about you may wonder? Here are 5 reasons to join a coworking space in 2022!
 
 ![Hybrid Coworking](/images/hybrid-coworking.png "WorkTank")
 
