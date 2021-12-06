@@ -52,13 +52,13 @@ The best part about Branch and Bird - its location. If you are lucky enough to o
 
 ### Tex-Mex
 
-* [Mi Cocina](https://www.micocina.com/locations/in/tx/fort-worth/sundance-square/) - A Tex-Mex staple, Mi Cocina will never let you down. Located in the heart of Sundance Square and accommodating to groups of 40 you can rely on Mi Cocina to host wonderful gatherings all while serving amazing tex-mex. Open Monday-Monday you have no reason not to stop in!
+* [Mi Cocina](https://www.micocina.com/locations/in/tx/fort-worth/sundance-square/) - A Tex-Mex staple, Mi Cocina will never let you down. Located in the heart of Sundance Square and accommodating to groups of 40, you can rely on Mi Cocina to host wonderful gatherings all while serving amazing tex-mex. Open Monday-Monday you have no reason not to stop in!
 * [Salsa Limon](https://salsalimon.com/home/) - Looking for delicious Mexican food from the morning to late evenings? Salsa Limon can work with that! They serve mouth-watering Mexican food all day with an almost perfect rating on Google! Dine in and see why people are seriously raving about Salsa Limon!
 
 ### Breakfast and Brunch
 
 * [Yolk](https://eatyolk.com/) - A go to for many people, Yolk serves the kind of breakfast food you dream of - with specialty juices and private label premium coffee you can expect scrumptious food and generous portions. Open Monday-Monday be sure you stop in with your family for a breakfast that truly will not disappoint!
-* [Corner Bakery Cafe](https://www.cornerbakerycafe.com/menu) - With countless locations throughout Dallas and Fort Worth, Corner Bakery Cafe is a must-stop for breakfast and coffee! From their hot made-to-order scramblers all the way to their decadent desserts you'll be happy you stopped at the Corner Bakery Cafe.
+* [Corner Bakery Cafe](https://www.cornerbakerycafe.com/menu) - With countless locations throughout Dallas and Fort Worth, Corner Bakery Cafe is a must-stop for breakfast and coffee! From their hot made-to-order scramblers all the way to their decadent desserts, you'll be happy you stopped at the Corner Bakery Cafe.
 
 ### Asian
 
