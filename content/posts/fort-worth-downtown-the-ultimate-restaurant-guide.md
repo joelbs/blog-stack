@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-# The Only Restaurant Guide You'll Ever Need (for Downtown Fort Worth) ...
+# The Only Restaurant Guide You'll Ever Need (if you're in Downtown Fort Worth) ...
 
 Downtown Fort Worth has over 75 dining options to choose from, of those options you can be sure to expect everything from Texas barbeque to artisan cuisine. Of the 75 dining options, we chose our favorites and made a food guide just for you! So if you're in downtown Fort Worth and are looking for a place that won't disappoint you, be sure to check out this detailed guide!
 
