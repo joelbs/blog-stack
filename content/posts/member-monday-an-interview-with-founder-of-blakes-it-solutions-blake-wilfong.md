@@ -1,10 +1,10 @@
 ---
 title: "Business Spotlight: An Interview with Founder of Blakes IT Solutions -
   Blake Wilfong"
-subtitle: WorkSuites interviews Blake Wilfong
+subtitle: ""
 date: 2021-09-17T15:15:40.633Z
 thumb_img_path: /images/2.png
-thumb_img_alt: Blake Wilfong
+thumb_img_alt: ""
 excerpt: ""
 seo:
   title: ""
@@ -17,6 +17,8 @@ seo:
 layout: post
 ---
 **"Business Spotlight" is a series of interviews featuring business owners in Texas that office with WorkSuites. We discuss all things business - the motivation behind being your own boss, the successes and failures with running a business, how to deal with challenging obstacles, and advice that every aspiring entrepreneur should know.**
+
+# **WorkSuites Interviews Founder Of Blakes IT Solutions ...**
 
 Blake Wilfong is the owner and founder of the Dallas based IT company - Blakes IT Solutions. Developed so that companies can save money and space, Blakes IT Solutions is the answer to IT work for small businesses globally.
 
@@ -59,3 +61,11 @@ BW: Yeah everyone. I don't think there were a lot of people that thought it was 
 **WS: What piece of advice would you want your younger self to know as an aspiring entrepreneur**
 
 BW: No matter how fast you want to go in business it's going to flow the way that it flows. So if I push, push, push, push it's not always going to equal results, sometimes you need to take a deep breath and focus on yourself and other parts of your life other than just your business.
+
+## If you're new ...
+
+WorkSuites has been providing private offices, hybrid coworking spaces, meeting rooms, and virtual offices to companies in the Houston and DFW area for over 20 years. WorkSuites is a Texas based company with 20 locations and growing. We pride ourselves on providing private workspaces in a professional environment designed for professionals. If you are serious about getting real work done then you can expect to accomplish your goals while thriving in our private offices, coworking spaces, and meeting rooms.
+
+## Need an office space ...
+
+Did you know our [hybrid coworking memberships](https://www.worksuites.com/coworking/) comes with access to private office days for members-only? Email workisgood@worksuites.com and mention this blog post to receive 30% off our hybrid coworking memberships.
