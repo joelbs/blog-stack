@@ -27,4 +27,6 @@ This stunning office space is equipped with four meeting rooms that seat 6-12 pe
 
 ![](/images/podcast-room.png)
 
-Did you know WorkSuites has a podcast room that our tenants can book by the hour? This space is fully equipped with everything you'll need to record your next episode
+Did you know WorkSuites has a podcast room that our tenants can book by the hour? This space is fully equipped with everything you'll need to record your next episode! With a large TV screen and insulated walls, this room can also be used to conduct zoom meetings throughout the day.
+
+![](/images/private-office.png)
