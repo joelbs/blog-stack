@@ -23,7 +23,7 @@ Located inside the Frost Tower, WorkSuites tenants have complimentary access to 
 
 ![](/images/meeting-room.png)
 
-This stunning office space is equipped with four meeting rooms that seat 6-12 people. When you bring your guests here they will be in awe of the enchanting accent lights, pebble wall, and the bright airy energy that sits inside this office space.
+This stunning office space is equipped with four meeting rooms that seat 6-12 people. When you bring your guests here they will be in awe of the enchanting accent lights, pebble wall, and the bright airy energy that sits inside these walls.
 
 ![](/images/podcast-room.png)
 
