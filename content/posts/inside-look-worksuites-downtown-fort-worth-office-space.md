@@ -30,3 +30,11 @@ This stunning office space is equipped with four meeting rooms that seat 6-12 pe
 Did you know WorkSuites has a podcast room that our tenants can book by the hour? This space is fully equipped with everything you'll need to record your next episode! With a large TV screen and insulated walls, this room can also be used to conduct zoom meetings throughout the day.
 
 ![](/images/private-office.png)
+
+WorkSuites private offices now come with the option for a fully customizable office! Our interior decorator, INSERT NAME, has quite the eye for making your office space feel professional and productive. Choose from personalized wall features, furniture, colors, lights and even the meniscal details, such as table décor.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
+
+
+Seeing this location in person is a much better experience! Don't forget to book a tour before the end of 2021, visit our [website](https://www.worksuites.com/texas/640-taylor-fort-worth) to book a tour so you can see this stunner in person!
