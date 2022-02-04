@@ -37,6 +37,8 @@ Howdy Homemade Ice Cream employs people with Autism and Down Syndrome by celebra
 
 ![](/images/howdy-homemade-ice-cream.png "Howdy Homemade Ice Cream")
 
+WorkSuites partnered with Texas food banks over the holidays to help feed people in need. Collectively, we were able to provide over 8,400 meals throughout Texas and raised over $1,800 as a whole. 
+
 ## Be on the lookout ...
 
 Hold on, we aren't finished yet! WorkSuites plans on giving away another free, fully furnished private office to one deserving individual, for all we know it could be you so don't miss out!
